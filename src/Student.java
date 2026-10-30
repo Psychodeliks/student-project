@@ -16,6 +16,7 @@ public class Student {
     }
 
 
+
     public Student(String lastName, boolean needsDorm, String previousEdu, String language) {
         setLastName(lastName);
         setNeedsDorm(needsDorm);
